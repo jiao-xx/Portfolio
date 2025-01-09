@@ -4,6 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Table of Contents
 - [Data Engineering](#data-engineering)
+- [LLM Agents](#llm-agents)
 - [Python](#python)
 - [SQL](#sql)
 - [Visualization](#visualization)
@@ -14,6 +15,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|
 | 🍣 [Google Restaurants](https://github.com/jiao-xx/Google-Restaurants-ETL) | Mar 2024 | Python, GCP (Google Maps API, BigQuery, Looker Studio), Jupyter Notebook | Developed and implemented an end-to-end ETL pipeline for processing restaurant data in Toronto. The pipeline encompassed extracting raw data using Google Maps API, performing data transformation with Python in Jupyter Notebook, storing and querying data in BigQuery, and creating an interactive dashboard in Looker Studio to visualize insights such as restaurant ratings and locations. |
 | 📱 [Social Media Posts](https://github.com/jiao-xx/Social-Media-ETL) | Sep 2024 | Python, GCP (Google Cloud Storage, BigQuery, Looker Studio), Jupyter Notebook | Designed, created, and deployed an end-to-end social media scraping and analytics pipeline for Reddit and Red using Python on Jupyter Notebook. The pipeline included extracting posts, comments, and images, transforming the data, storing it in BigQuery, and creating interactive dashboards in Looker Studio to visualize engagement metrics and sentiment analysis. |
+
+***
+# LLM Agents
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 📊 [Anomaly Detection System](https://github.com/jiao-xx/LLM-Agent-Anomaly-Detection-System) | Aug 2024 | Python, SQL, Jupyter Notebook | Built a multi-agent system for anomaly detection and reporting. The system leveraged SQL to query time-series data, Python for data analysis, and GCP for storage and visualization. Agents generated plots, SQL queries, and high-level anomaly summaries, with outputs integrated into structured reports featuring visuals, observations, and identified data issues. |
+| 💻 [Advanced Anomaly Detection System](https://github.com/jiao-xx/Advanced-LLM-Agent) | Dec 2025 | Python, Jupyter Notebook | Built a multi-agent system leveraging LLMs for anomaly detection and reporting. The system used statistical and regression methods to analyze time-series and aggregated datasets, generating interactive visuals and structured reports with short and comprehensive summaries. |
 
 ***
 
