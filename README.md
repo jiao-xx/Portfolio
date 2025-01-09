@@ -45,7 +45,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | Built an interactive dashboard using SQL and Tableau to analyze COVID-19 cases, recoveries, and fatalities. Performed data preparation and statistical analysis to uncover key trends and regional insights. | 
 | 🏠 [Data Cleaning Queries](https://github.com/jiao-xx/data-cleaning) | Data Preparation & Transformation | Cleaned and prepared raw datasets using SQL, addressing missing values, duplicates, and inconsistencies. Optimized data for analytics and reporting through transformations and indexing. |
 | ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | Survey Analysis & Behavioral Insights | Explored motivations and behaviors of travelers using dating apps, analyzing personality traits, risk tolerance, and travel purposes through regression models and statistical tests. | pandas, matplotlib, statsmodels |
-
+| 🖥️ [SQL LeetCode Solutions](https://github.com/jiao-xx/SQL-Leetcode-50) | SQL Problem Solving & Optimization | Solved 50 SQL problems from LeetCode, demonstrating efficient query techniques and covering topics like joins, aggregations, and window functions. | SQL, Jupyter Notebook |
 
 ***
 
