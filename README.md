@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 📊 [Anomaly Detection System](https://github.com/jiao-xx/LLM-Agent-Anomaly-Detection-System) | Aug 2024 | Python, SQL, Jupyter Notebook | Built a multi-agent system for anomaly detection and reporting. The system leveraged SQL to query time-series data, Python for data analysis, and GCP for storage and visualization. Agents generated plots, SQL queries, and high-level anomaly summaries, with outputs integrated into structured reports featuring visuals, observations, and identified data issues. |
-| 💻 [Advanced Anomaly Detection System](https://github.com/jiao-xx/Advanced-LLM-Agent) | Dec 2025 | Python, Jupyter Notebook | Built a multi-agent system leveraging LLMs for anomaly detection and reporting. The system used statistical and regression methods to analyze time-series and aggregated datasets, generating interactive visuals and structured reports with short and comprehensive summaries. |
+| 💻 [Advanced Anomaly Detection System](https://github.com/jiao-xx/Advanced-LLM-Agent) | Dec 2024 | Python, Jupyter Notebook | Built a multi-agent system leveraging LLMs for anomaly detection and reporting. The system used statistical and regression methods to analyze time-series and aggregated datasets, generating interactive visuals and structured reports with short and comprehensive summaries. |
 
 ***
 
