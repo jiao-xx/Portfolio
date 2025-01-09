@@ -44,6 +44,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | Built an interactive dashboard using SQL and Tableau to analyze COVID-19 cases, recoveries, and fatalities. Performed data preparation and statistical analysis to uncover key trends and regional insights. | 
 | 🏠 [Data Cleaning Queries](https://github.com/jiao-xx/data-cleaning) | Data Preparation & Transformation | Cleaned and prepared raw datasets using SQL, addressing missing values, duplicates, and inconsistencies. Optimized data for analytics and reporting through transformations and indexing. |
+| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | Survey Analysis & Behavioral Insights | Explored motivations and behaviors of travelers using dating apps, analyzing personality traits, risk tolerance, and travel purposes through regression models and statistical tests. | pandas, matplotlib, statsmodels |
+
 
 ***
 
@@ -51,7 +53,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | Built an interactive dashboard using SQL and Tableau to analyze COVID-19 cases, recoveries, and fatalities. Performed data preparation and statistical analysis to uncover key trends and regional insights. | [Dashboard](https://public.tableau.com/app/profile/lora.jiao/viz/Covid_Analysis_16916118705070/Dashboard1) |
-| 📊 [Data Professionals Survey](https://github.com/jiao-xx/small-projects/tree/Data-Professional-Survey) | Visualization & Insights | Visualized key trends from a survey of 630 data professionals, including salaries, job satisfaction, and programming preferences. Developed interactive dashboards to analyze work-life balance and industry challenges. | [Dashboard](https://github.com/jiao-xx/small-projects/blob/Data-Professional-Survey/Data%20Professionals%20Survey.pdf)
+| 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | [Dashboard](https://public.tableau.com/app/profile/lora.jiao/viz/Covid_Analysis_16916118705070/Dashboard1) |
+| 📊 [Data Professionals Survey](https://github.com/jiao-xx/small-projects/tree/Data-Professional-Survey) | [Dashboard](https://github.com/jiao-xx/small-projects/blob/Data-Professional-Survey/Data%20Professionals%20Survey.pdf)
+| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | [Dashboard](https://lookerstudio.google.com/reporting/5acce0e4-5b7e-45bf-ad34-48e4177b7cd2)
 
 ***
