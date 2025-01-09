@@ -51,9 +51,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Visualization
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | [Dashboard](https://public.tableau.com/app/profile/lora.jiao/viz/Covid_Analysis_16916118705070/Dashboard1) |
+| Project Link | Dashboard Link |
+|---|---|
+| 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | [Dashboard](https://public.tableau.com/app/profile/lora.jiao/viz/Covid_Analysis_16916118705070/Dashboard1) |
 | 📊 [Data Professionals Survey](https://github.com/jiao-xx/small-projects/tree/Data-Professional-Survey) | [Dashboard](https://github.com/jiao-xx/small-projects/blob/Data-Professional-Survey/Data%20Professionals%20Survey.pdf)
 | ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | [Dashboard](https://lookerstudio.google.com/reporting/5acce0e4-5b7e-45bf-ad34-48e4177b7cd2)
 
