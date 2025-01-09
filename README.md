@@ -35,6 +35,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 💳 [Bank Fraud Detection](https://github.com/jiao-xx/Visual-Analytics-CSE6242/tree/main/final%20report) | Predictive Analytics & Fraud Detection | Developed a robust framework to identify fraudulent banking transactions using advanced machine learning techniques like Logistic Regression, Random Forest, and Ensemble Learning. Incorporated SMOTE for balancing imbalanced data and used interactive visualizations for detailed insights. | pandas, scikit-learn, matplotlib |
 | 🎮 [Mobile Games A/B Testing](https://github.com/jiao-xx/small-projects/tree/A/B-Testing) | A/B Testing & User Behavior Analysis | Evaluated the impact of game modifications on retention, revenue, and conversion rates through hypothesis testing and confidence interval analysis. Developed insights to optimize game performance and enhance user engagement. | pandas, matplotlib, statsmodels |
 | ⚡ [Energy Consumption Analysis](https://github.com/jiao-xx/energy-analysis) | Data Analysis & Predictive Modeling | Analyzed energy consumption patterns and trends using EDA and regression models. Identified key factors influencing usage and forecasted future energy consumption. | pandas, matplotlib, scikit-learn |
+| 🏈 [NFL Betting Bayesian Analysis](https://github.com/jiao-xx/Bayes-ISYE6420) | Sports Analytics & Predictive Modeling | Predicted NFL win probabilities using Bayesian, logistic regression, and random forest models. Identified team strengths and mispriced betting odds through probabilistic reasoning. | pandas, PyMC3, scikit-learn |
 
 ***
 
@@ -44,7 +45,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | Data Analysis & Visualization | Built an interactive dashboard using SQL and Tableau to analyze COVID-19 cases, recoveries, and fatalities. Performed data preparation and statistical analysis to uncover key trends and regional insights. | 
 | 🏠 [Data Cleaning Queries](https://github.com/jiao-xx/data-cleaning) | Data Preparation & Transformation | Cleaned and prepared raw datasets using SQL, addressing missing values, duplicates, and inconsistencies. Optimized data for analytics and reporting through transformations and indexing. |
-| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | Survey Analysis & Behavioral Insights | Explored motivations and behaviors of travelers using dating apps, analyzing personality traits, risk tolerance, and travel purposes through regression models and statistical tests. | pandas, matplotlib, statsmodels |
+| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis) | Survey Analysis & Behavioral Insights | Explored motivations and behaviors of travelers using dating apps, analyzing personality traits, risk tolerance, and travel purposes through regression models and statistical tests. | pandas, matplotlib, statsmodels |
 | 🖥️ [SQL LeetCode Solutions](https://github.com/jiao-xx/SQL-Leetcode-50) | SQL Problem Solving & Optimization | Solved 50 SQL problems from LeetCode, demonstrating efficient query techniques and covering topics like joins, aggregations, and window functions. | SQL, Jupyter Notebook |
 
 ***
@@ -55,6 +56,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|
 | 🦠 [COVID-19 Dashboard Using SQL](https://github.com/jiao-xx/small-projects/tree/COVID-19-Dashboard-using-SQL) | [Dashboard](https://public.tableau.com/app/profile/lora.jiao/viz/Covid_Analysis_16916118705070/Dashboard1) |
 | 📊 [Data Professionals Survey](https://github.com/jiao-xx/small-projects/tree/Data-Professional-Survey) | [Dashboard](https://github.com/jiao-xx/small-projects/blob/Data-Professional-Survey/Data%20Professionals%20Survey.pdf)
-| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis/tree/main) | [Dashboard](https://lookerstudio.google.com/reporting/5acce0e4-5b7e-45bf-ad34-48e4177b7cd2)
+| ❤️ [Dating Apps During Travel](https://github.com/jiao-xx/travel-dating-analysis) | [Dashboard](https://lookerstudio.google.com/reporting/5acce0e4-5b7e-45bf-ad34-48e4177b7cd2)
 
 ***
